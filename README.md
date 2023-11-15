@@ -37,6 +37,10 @@ Delete employees from the database
 ### Usage 
 ![Preview](<../../OneDrive/Pictures/Screenshots/Screenshot Usage.png>)
 
+![Video walk through] https://drive.google.com/file/d/1oN0jMt3qPplb5VSdfXtiENmbpxzRSFeO/view
+
+![GitHub link] https://github.com/Drew-Odinson/week12_project
+
 
 
 ### Contributing
